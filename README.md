@@ -1,7 +1,7 @@
 # Murphy2019
-Key algorithms used to generate paper figures.
 
 An individual-based mechanical model of cell movement in heterogeneous tissues and its coarse-grained approximation.
+Key algorithms used to generate paper figures.
 
 00_Murphy2019_GitHub_v1.m is the main script. 
 Other functions are called from this. 
