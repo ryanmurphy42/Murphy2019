@@ -1,6 +1,6 @@
 # Murphy2019
 
-An individual-based mechanical model of cell movement in heterogeneous tissues and its coarse-grained approximation.
+A one-dimensional individual-based mechanical model of cell movement in heterogeneous tissues and its coarse-grained approximation.
 Key algorithms used to generate paper figures.
 
 Murphy2019_GitHub_v1.m is the main script. 
